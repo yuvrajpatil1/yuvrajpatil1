@@ -42,7 +42,7 @@ A secure, full-stack digital wallet supporting multiple payment types.
 - Integrated Stripe for real payments and Redis for faster session handling
 - Implemented Google OAuth, RBAC, PIN reset flow, and security best practices (Helmet, XSS Clean, rate limiting)
 
-[Live Demo](https://github.com/yuvrajpatil1/transacto) | [Video Walkthrough](<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7345925753605115904?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Transacto video"></iframe>)
+[Live Demo](https://github.com/yuvrajpatil1/transacto) | [Video Walkthrough](https://www.linkedin.com/posts/yuvrajkpatil_im-happy-to-share-transacto-a-comprehensive-activity-7345926174025424900-tprb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1yT5oBFesAHKncDmcPYyezcuA3_nK69XY)
 
 ---
 
@@ -80,7 +80,7 @@ A URL shortening platform with user authentication and full link management.
 ## Contact
 
 **Email:** yuvrajpatil12092004@gmail.com  
-**LinkedIn:** (https://www.linkedin.com/in/yuvrajkpatil/) 
+**LinkedIn:** (https://www.linkedin.com/in/yuvrajkpatil/)
 **Location:** Sangli, Maharashtra, India
 
 ---
