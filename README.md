@@ -42,7 +42,7 @@ A secure, full-stack digital wallet supporting multiple payment types.
 - Integrated Stripe for real payments and Redis for faster session handling
 - Implemented Google OAuth, RBAC, PIN reset flow, and security best practices (Helmet, XSS Clean, rate limiting)
 
-[Live Demo](https://github.com/yuvrajpatil1/transacto) | [Video Walkthrough](https://www.linkedin.com/posts/yuvrajkpatil_im-happy-to-share-transacto-a-comprehensive-activity-7345926174025424900-tprb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1yT5oBFesAHKncDmcPYyezcuA3_nK69XY)
+[Live Site](https://transacto.onrender.com/) | [Video Walkthrough](https://www.linkedin.com/posts/yuvrajkpatil_im-happy-to-share-transacto-a-comprehensive-activity-7345926174025424900-tprb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1yT5oBFesAHKncDmcPYyezcuA3_nK69XY)
 
 ---
 
@@ -55,7 +55,7 @@ A URL shortening platform with user authentication and full link management.
 - Users can search, delete, and export their shortened links
 - Built with a responsive, minimal UI using Tailwind CSS
 
-[Live Site](https://github.com/yuvrajpatil1/url-shortener)
+[Live Site](https://slashbyhash.vercel.app/)
 
 ---
 
@@ -72,7 +72,7 @@ A URL shortening platform with user authentication and full link management.
 
 ## Freelance Work
 
-- **SUNRISE CARS** – A rental service platform built with the MERN stack
+- **SUNRISE CARS** – A rental service platform built with the MERN stack [Live Site](https://sunrisecars.in/)
 - **MAHALAXMI KRUSHISEVA** – Agricultural service site using Next.js (ongoing)
 
 ---
