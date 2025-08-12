@@ -1,10 +1,4 @@
-# Hi, I'm Yuvraj Patil
-
-I am a Computer Engineering undergraduate at Rajarambapu Institute of Technology, passionate about backend systems, distributed architectures, and building full-stack, scalable, production-grade applications.
-
----
-
-## Projects
+## Featured Projects
 
 ### CACHIS – Redis Clone in Java
 
