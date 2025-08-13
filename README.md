@@ -2,8 +2,7 @@
 
 ### CACHIS – Redis Clone in Java
 
-**Tech Stack:** Java, TCP Sockets, Docker
-
+**Tech Stack:** Java, TCP Sockets, Docker 
 A Redis-inspired in-memory data store built from scratch.
 
 - Implemented core Redis commands (`GET`, `SET`, `PING`, `INFO`), key expiration, and RESP protocol
@@ -75,8 +74,8 @@ A URL shortening platform with user authentication and full link management.
 ## Contact
 
 **Email:** yuvrajpatil12092004@gmail.com  
-**LinkedIn:** (https://www.linkedin.com/in/yuvrajkpatil/)
-**Portfolio** (https://yuvrajkpatil.netlify.app)
+**LinkedIn:** (https://www.linkedin.com/in/yuvrajkpatil/) 
+**Portfolio** (https://yuvrajkpatil.netlify.app) 
 **Location:** Sangli, Maharashtra, India
 
 ---
