@@ -76,6 +76,7 @@ A URL shortening platform with user authentication and full link management.
 
 **Email:** yuvrajpatil12092004@gmail.com  
 **LinkedIn:** (https://www.linkedin.com/in/yuvrajkpatil/)
+**Portfolio** (https://yuvrajkpatil.netlify.app)
 **Location:** Sangli, Maharashtra, India
 
 ---
