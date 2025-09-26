@@ -66,7 +66,6 @@ A URL shortening platform with user authentication and full link management.
 ## Freelance Work
 
 - **SUNRISE CARS** – A rental service platform built with the MERN stack [Live Site](https://sunrisecars.in/)
-- **MAHALAXMI KRUSHISEVA** – Agricultural service site using Next.js (ongoing)
 
 ---
 
