@@ -60,7 +60,6 @@ A secure, full-stack digital wallet supporting multiple payment types.
 ## Extra-Curricular Activities
 
 - Designed and developed a full-stack car rental platform for sunrisecars.in using the MERN stack.
-- Developed and optimized a lyrics website via Blogger, achieving top 3 Google search rankings with most articles ranking on the first page.
 - Grew personal YouTube channel to 3,500+ subscribers, provided SEO optimization services for 500+ videos across multiple channels with combined subscriber base of 400,000+.
 
 ---
