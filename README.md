@@ -10,7 +10,7 @@ I am a Computer Engineering student with expertise in MERN stack development. Bu
 
 ### TRADING JOURNAL SAAS PLATFORM
 **Tech Stack:** React, Node.js, Express, MySQL, Razorpay, JWT, TailwindCSS, Google Gemini AI  
-[Walkthrough Videos](https://www.linkedin.com/in/yuvrajkpatil/) | [Live Link](#)
+[Walkthrough Videos](https://www.linkedin.com/in/yuvrajkpatil/) | [Live Link](https://tradegrade.in)
 
 A full-stack trading analytics SaaS serving 35+ users (12 premium subscribers).
 
